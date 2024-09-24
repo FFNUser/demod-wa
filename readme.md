@@ -16,23 +16,6 @@
 
 **(00-00-00) - (00-00-00)** Example.
 
-
-## Emoji Guide for App Selection
-
-In this repository, you'll find various apps and tweaks that may serve similar purposes. To help you choose the right one, I've added emojis to indicate the status of each app: *(May be subject to change over time.)*
-
-- ✅ Indicates that an app is working or up-to-date.
-
-- ❌ Indicates that an app is either discontinued or not working.
-
-- ⚠️ Indicates that an app is outdated but still functional.
-
-- 👍 Indicates that an app or tweak is considered better than another one from the repo. (Example: Paperback > Aidoku)
-
-- 💡 Indicates that an app contains a hand-made tutorial. (Linked in its description)
-
-- ❔ Indicates that the app's original source is inaccessible or has not been tested and its functionality is uncertain.
-
 ## Additional Information
 
 - **Crediting Contributions:** Ensuring proper recognition of the hard work put in by the respective maintainers is of utmost importance. It's crucial to acknowledge that I gather and update all the IPAs I have in one central location. This process is carried out with immense respect for the creators, emphasizing that credits are obligatory and placed at the forefront because they reflect the dedication and effort invested by these individuals.
