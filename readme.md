@@ -6,7 +6,7 @@
 
 ## Announcements
 
-**(00-00-00) - (00-00-00)** Example.
+**(12-10-24)** Start of DeMod WhatsApp channel.
 
 ---
 
