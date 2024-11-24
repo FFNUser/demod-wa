@@ -2,6 +2,8 @@
 
 <p align="center"><strong>A collection from many different sources, for various platforms!</strong></p>
 
+<p align="center"><strong>https://whatsapp.com/channel/0029VamXHkMEawdwUzFDFh0n</strong></p>
+
 ---
 
 ## Announcements
